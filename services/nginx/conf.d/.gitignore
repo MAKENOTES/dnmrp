@@ -1,0 +1,13 @@
+*
+!.gitignore
+!certs/localhost/
+!localhost.conf
+!laravel-pt.conf
+!laravel-shop.conf
+!mjngs.conf
+!oos.conf
+!sc.conf
+!sc_vip.conf
+!sc_vip.conf_back
+!test.conf
+!xgs.conf
